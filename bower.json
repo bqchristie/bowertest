@@ -1,0 +1,21 @@
+{
+  "name": "bowertest",
+  "homepage": "https://github.com/bqchristie/bowertest",
+  "authors": [
+    "Bruce Christie <bruce.christie@mobilelive.ca>"
+  ],
+  "description": "testing a private bower",
+  "main": "main.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bowertest": "*"
+  }
+}
