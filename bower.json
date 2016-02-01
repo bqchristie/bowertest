@@ -1,5 +1,6 @@
 {
   "name": "bowertest",
+  "version": "0.0.0",
   "homepage": "https://github.com/bqchristie/bowertest",
   "authors": [
     "Bruce Christie <bruce.christie@mobilelive.ca>"
@@ -16,6 +17,5 @@
     "tests"
   ],
   "devDependencies": {
-    "bowertest": "*"
   }
 }
